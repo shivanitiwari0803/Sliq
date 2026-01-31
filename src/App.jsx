@@ -7,6 +7,8 @@ const App = () => {
     <div>
       <Navbar />
       <Section1 />
+
+      
     </div>
   );
 };
